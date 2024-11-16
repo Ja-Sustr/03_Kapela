@@ -15,9 +15,64 @@
 
 .podnadpis{
 font-size: 1.5vw;
-margin-top: 5vw;
+margin-top: 2vw;
 }
 
 .tlacitko{
   margin-top: 3vw;
 }
+
+.podnadpis-diskografie{
+  font-size: 3vw;
+}
+
+.album-1{
+  background-color: #832A2C;
+  color: #060201;
+}
+
+.album-2{
+  background-color: #731849;
+  color: #080305;
+}
+
+.album-3{
+  background-color: #337267;
+  color: #171B24;
+}
+
+.album-4{
+  background-color: #99D4DE;
+  color: #020408;
+}
+
+.album-5{
+  background-color: #D272A6;
+  color: #1B0A24;
+}
+
+.album-6{
+  background-color: #BFAE69;
+  color: #0D0D0D;
+}
+
+.album-7{
+  background-color: #8ECCAB;
+  color: #0E241F;
+}
+
+.album-8{
+  background-color: #FFAC88;
+  color: #3C1500;
+}
+
+.album-9{
+  background-color: #3FB480;
+  color: #080008;
+}
+
+.album-10{
+  background-color: #FCB9A7;
+  color: #3B1910;
+}
+
