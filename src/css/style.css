@@ -76,3 +76,76 @@ margin-top: 2vw;
   color: #3B1910;
 }
 
+
+
+.album-1-t{
+  color: #832A2C;
+  background-color: #060201;
+}
+
+.album-2-t{
+  color: #731849;
+  background-color: #080305;
+}
+
+.album-3-t{
+ color: #337267;
+ background-color: #171B24;
+}
+
+.album-4-t{
+  color: #99D4DE;
+  background-color: #020408;
+}
+
+.album-5-t{
+  color: #D272A6;
+  background-color: #1B0A24;
+}
+
+.album-6-t{
+  color: #BFAE69;
+  background-color: #0D0D0D;
+}
+
+.album-7-t{
+  color: #8ECCAB;
+  background-color: #0E241F;
+}
+
+.album-8-t{
+  color: #FFAC88;
+  background-color: #3C1500;
+}
+
+.album-9-t{
+  color: #3FB480;
+  background-color: #080008;
+}
+
+.album-10-t{
+  color: #FCB9A7;
+  background-color: #3B1910;
+}
+
+.obrazek-container{
+  width: 40%;
+}
+
+.alb-text-container{
+  flex: 1;
+}
+
+.text-alba{
+font-size: 1vw;
+margin-bottom: 7%;
+}
+
+.odkazy{
+  font-size: 2vw;
+  text-decoration: none;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  padding-left: 7%;
+  padding-right: 7%;
+}
